@@ -1,18 +1,16 @@
-# 🌱 FitNourish
+# fit_nourish
 
-**FitNourish** is a Flutter app that calculates your **BMI** and provides personalized **diet and exercise suggestions**. A simple, lightweight health companion to support better lifestyle choices.
+A new Flutter project.
 
-## ✨ Features
-- 📊 BMI calculation  
-- 🥗 Diet recommendations  
-- 🏃 Exercise suggestions  
-- 🎨 Clean, responsive UI  
+## Getting Started
 
-## 🚀 Tech Stack
-- Flutter (Dart)  
-- Android & iOS support  
+This project is a starting point for a Flutter application.
 
-## 📥 Installation
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/fitnourish.git
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
